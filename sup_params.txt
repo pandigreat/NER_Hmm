@@ -1,0 +1,8 @@
+{
+    "emission_prob_file":"./post_data/emission_probability.txt",
+    "start_prob_file":"./post_data/start_probability.txt",
+    "transition_prob_file":"./post_data/transition_probability.txt",
+    "word_file":"./post_data/word_file.txt"
+
+
+}
